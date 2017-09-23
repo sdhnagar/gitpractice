@@ -3,6 +3,7 @@ r create a new repository on the command line
 
 echo "# gitpractice" >> README.md
 git init
+#this is test
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/sdhnagar/gitpractice.git
